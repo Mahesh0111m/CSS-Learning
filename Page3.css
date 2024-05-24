@@ -1,0 +1,7 @@
+/* float ->  positions an element to the left or right side of a container
+   ex- popular for wrapping elements around images */
+
+
+   img{
+    float: left;
+   }
