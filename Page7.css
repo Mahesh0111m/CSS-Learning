@@ -1,0 +1,21 @@
+/*
+
+Adding Icons using Font awesome Website
+
+*/
+
+.fa-solid{
+    color: blue;
+    font-size: 40px;
+    
+}
+
+#you{
+    color: red;
+    font-size: 40px;
+}
+
+.fa-brands{
+    color:rgb(55, 55, 244);
+    font-size: 40px;
+}
