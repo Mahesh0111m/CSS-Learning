@@ -1,0 +1,26 @@
+body{
+    margin: 0px; /* to make things exactly fit in view port other wise there will be 
+    some margin between our page and viewport*/
+}
+
+
+#box1{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+    background:skyblue;
+    /*Padding is space between content and border and margin is a space outside border*/
+    padding: 10px;
+}
+#box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 20px;
+    background:skyblue;
+    margin: 10px;
+/*margin-right : auto will make it come to complete left
+margin-left : auto will make it come to complete right*/
+
+}
