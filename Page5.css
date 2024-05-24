@@ -1,0 +1,23 @@
+/*  psuedo classes  
+
+ -- a keyword added to a selector that specifies a special state of the selected 
+    elements
+
+*/
+
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: red;
+}
+
+a:active{
+    color: yellow ;
+}
