@@ -1,0 +1,14 @@
+/*
+
+1.  Text shadows
+2.  box shadows
+
+*/
+
+h1{
+    text-shadow: 5px 0px 0px yellow , 0px -3px 0px red  ;
+}
+
+h1:hover{
+    box-shadow: 15px 15px 150px blueviolet;
+}
