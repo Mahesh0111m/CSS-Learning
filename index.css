@@ -1,6 +1,7 @@
 h1{
     border-style: dotted ;
-    
+    background: linear-gradient(rgb(195, 223, 234),white);
+    background-attachment:  fixed;
 }
 
 
@@ -21,3 +22,12 @@ p{
     padding: 5px;
     
 }
+
+body{
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTzY1pPcp0rkl7WLWl5ap5nVEV1waQs-FAncKNHDMXHASq9oeZXObJYctdysJlr8Wp9uQ&usqp=CAU");
+   background-repeat: no-repeat;
+   background-attachment:  fixed;
+   background-position: center;
+   background-size: cover;
+}
+
